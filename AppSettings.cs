@@ -11,6 +11,6 @@ namespace Hangman.Models
 
         public static string Name { get; set; } = "Hangman_play_bot";
 
-        public static string Key { get; set; } = "1828186140:AAFfj8EelqMQczCvbz2La6XQbBa5W525uB4";
+        public static string Key { get; set; } = "...";
     }
 }
