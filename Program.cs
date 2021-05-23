@@ -13,7 +13,7 @@ namespace Hangman
         static TelegramBotClient Bot;
         static void Main(string[] args)
         {
-            Bot = new TelegramBotClient("1828186140:AAFfj8EelqMQczCvbz2La6XQbBa5W525uB4");
+            Bot = new TelegramBotClient("...");
 
             Bot.OnMessage += BotOnMessageRecived;
             Bot.OnCallbackQuery += Bot_OnCallbackQuery;
